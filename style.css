@@ -1,0 +1,9 @@
+p{
+    text-shadow: 3px -4px 5px green
+}
+
+.paragraph-1 {
+    font-size: 24px; 
+    font-style: oblique;
+    text-align: center
+}
